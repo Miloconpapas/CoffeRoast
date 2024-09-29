@@ -234,7 +234,7 @@ h3 {
 .grid1 {
     grid-column: 1/3;
     grid-row: 1/3;
-    height: 490.54px; /* 2 filas de 245.27px cada una */
+    height: 515.54px; /* 2 filas de 245.27px cada una */
 }
 
 .chef-message {
@@ -249,7 +249,7 @@ h3 {
 
 .chef-message h2 {
     text-align: left;
-    font-size: 1.5em; 
+    font-size: 2.5em; 
 }
 
 .grid3, .grid6 {
