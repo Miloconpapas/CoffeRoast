@@ -1,5 +1,15 @@
 {
+  "name": "cafe",
+  "version": "1.0.0",
+  "description": "coffe roast",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "miliarana2009@gmail.com",
+  "license": "ISC",
   "dependencies": {
-    "normalize.css": "^8.0.1"
+    "express": "^4.21.0"
   }
 }
